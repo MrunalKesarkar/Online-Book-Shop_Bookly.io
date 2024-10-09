@@ -1,0 +1,20 @@
+/* HomePage.css */
+.homepage {
+    padding: 20px;
+    text-align: center;
+}
+
+/* HomePage.css */
+.card-container {
+    display: flex; /* Use Flexbox layout */
+    flex-wrap: wrap; /* Allow wrapping to the next line if needed */
+    gap: 16px; /* Space between cards */
+    justify-content: center; /* Center cards horizontally */
+    padding: 20px; /* Optional padding around the container */
+}
+
+.card {
+    flex: 1 1 100px; /* Flex-grow, flex-shrink, and flex-basis for card sizing */
+    max-width: 100px; /* Maximum width of each card */
+}
+

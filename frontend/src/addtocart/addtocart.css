@@ -1,0 +1,6 @@
+.continue-shopping {
+    border: 1px solid #ffc107; /* Same color as btn-warning */
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
