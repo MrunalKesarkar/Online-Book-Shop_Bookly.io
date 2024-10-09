@@ -3,7 +3,7 @@ MySQL , j2EE , React JS
 
 ---
 
-##Introduction
+## Introduction
 
 This project deals with developing an e-commerce website for Online Book Shop. It provides the user with a catalog of different books available for purchase in the store. In order to facilitate online purchase a shopping cart is provided to the user. The user can place the order to buy the book and see the status of the order also. The system is implemented using a 3-tier approach. Also admin side operations are supported.
 
@@ -20,7 +20,7 @@ This project deals with developing an e-commerce website for Online Book Shop. I
 
 **Mrunal Kesarkar**
 
-- [GitHub]()
-- [LinkedIn]()
+- [GitHub](https://github.com/MrunalKesarkar)
+- [LinkedIn](https://www.linkedin.com/in/mrunal-kesarkar/)
 
 
