@@ -1,2 +1,2 @@
-# Online-Book-Shop_Bookly.io (https://github.com/83546-MyGitData/FinalProject-J014)
+# Online-Book-Shop_Bookly.io 
 MySQL , j2EE , React JS
