@@ -18,7 +18,7 @@ Additionally, it features an **admin panel** for managing inventory, user orders
 
 - 📚 Browse books by category and search for specific titles.
 - 🛒 Add books to the shopping cart and proceed with a secure checkout.
-- 📦 Track order status in real time.
+- 💰 Apply discount functionality.
 - 📝 View detailed book descriptions, including price, author, and availability.
 
 ### 🛠️ Admin Features
@@ -38,6 +38,14 @@ Additionally, it features an **admin panel** for managing inventory, user orders
 
 ---
 
+## 📸 Screenshots (Optional - Add relevant UI images)
+
+| Home Page | Book Details Page |
+| --------- | ----------------- |
+|           |                   |
+
+---
+
 ## 🔧 Installation & Setup
 
 ### 1️⃣ Clone the Repository
@@ -48,7 +56,6 @@ Additionally, it features an **admin panel** for managing inventory, user orders
 ```
 
 ### 2️⃣ Backend Setup
-
 - Ensure **Java & MySQL** are installed.
 - Configure the MySQL database:
 
@@ -57,11 +64,8 @@ CREATE DATABASE bookly_db;
 ```
 
 - Update **application.properties** with database credentials.
-- Run the Spring Boot application:
-
-```bash
-mvn spring-boot:run
 ```
+---
 
 ### 3️⃣ Frontend Setup
 
@@ -76,6 +80,7 @@ npm start
 ---
 
 
+
 ## 👤 Author
 
 **Mrunal Kesarkar**
@@ -85,5 +90,7 @@ npm start
 ---
 
 
+
 🎉 **Happy Coding!** 🚀
+
 
