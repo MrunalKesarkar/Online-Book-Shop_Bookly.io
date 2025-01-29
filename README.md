@@ -38,14 +38,6 @@ Additionally, it features an **admin panel** for managing inventory, user orders
 
 ---
 
-## 📸 Screenshots (Optional - Add relevant UI images)
-
-| Home Page | Book Details Page |
-| --------- | ----------------- |
-|           |                   |
-
----
-
 ## 🔧 Installation & Setup
 
 ### 1️⃣ Clone the Repository
@@ -83,14 +75,6 @@ npm start
 
 ---
 
-## 🎯 Future Enhancements
-
-- 🛍️ Implement user authentication and role-based access.
-- 💳 Integrate secure payment gateway.
-- 📱 Develop a mobile-friendly responsive UI.
-- 🔍 Improve search functionality with filters and recommendations.
-
----
 
 ## 👤 Author
 
@@ -100,11 +84,6 @@ npm start
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 🎉 **Happy Coding!** 🚀
 
