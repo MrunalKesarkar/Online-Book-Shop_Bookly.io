@@ -38,13 +38,6 @@ Additionally, it features an **admin panel** for managing inventory, user orders
 
 ---
 
-## 📸 Screenshots (Optional - Add relevant UI images)
-
-| Home Page | Book Details Page |
-| --------- | ----------------- |
-|           |                   |
-
----
 
 ## 🔧 Installation & Setup
 
@@ -64,10 +57,10 @@ CREATE DATABASE bookly_db;
 ```
 
 - Update **application.properties** with database credentials.
-```
+
 ---
 
-### 3️⃣ Frontend Setup
+### 3️⃣ Fontend Setup
 
 - Navigate to the frontend directory:
 
